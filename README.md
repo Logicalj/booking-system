@@ -75,7 +75,14 @@ Append this line:
 
 <hr/>
 <details>
-<summary> Architecture Diagram</summary>
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
-
+<summary> ERD Diagram </summary>
+<img src="./documents/ERD/BMS_ERD_V1.PNG"/>
 </details>
+<hr/>
+<details>
+<summary> Architecture Diagram </summary>
+<img src="./documents/arch/bms_arch_v2.png"/>
+</details>
+
+<hr/>
+Thanks
